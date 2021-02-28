@@ -35,6 +35,8 @@
 <h3 align="center"><b>Current Projects</b></h3>
 
 <p align="center">
+<img alt="HSClientR" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=HSClientR&theme=monokai"/>
+<br/>
 <img alt="cryptocurr" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=cryptocurr&theme=monokai"/>
 <br/>
 <img alt="plannr" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=plannr&theme=monokai"/>
