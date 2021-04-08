@@ -15,7 +15,7 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=F92672"/>
 <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?&logo=Powershell&logoColor=F92672"/>
 <br/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=program--&theme=monokai&layout=compact&hide=html,scss,less,css"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=program--&theme=monokai&layout=compact&hide=html,scss,less,css&langs_count=20"/>
 </p>
 
 <h3 align="center"><b>Technology Stack</b></h3>
