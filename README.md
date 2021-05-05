@@ -22,8 +22,9 @@
 
 <p align="center">
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F92672"/>
-<img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean&logoColor=F92672"/>
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=F92672"/>
+<img alt="GCP" src="https://img.shields.io/badge/-GCP-000?&logo=Google%20Cloud&logoColor=F92672"/>
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=F92672"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub%20Actions&logoColor=F92672"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F92672"/>
 <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-000?&logo=Fedora&logoColor=F92672"/>
 <br/>
@@ -35,6 +36,8 @@
 <h3 align="center"><b>Current Projects</b></h3>
 
 <p align="center">
+<img alt="modeltargets" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=modeltargets&theme=monokai"/>
+<br/>
 <img alt="HSClientR" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=HSClientR&theme=monokai"/>
 <br/>
 <img alt="cryptocurr" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=cryptocurr&theme=monokai"/>
