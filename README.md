@@ -12,7 +12,7 @@
 
 <p align="center">
 <img alt="R" src="https://img.shields.io/badge/-R-000?&logo=R&logoColor=F92672"/>
-<img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=F92672"/>
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=F92672"/>
 <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?&logo=Powershell&logoColor=F92672"/>
 <br/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=program--&theme=monokai&layout=compact&hide=html,scss,less,css&langs_count=20"/>
@@ -26,21 +26,11 @@
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=F92672"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub%20Actions&logoColor=F92672"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F92672"/>
-<img alt="Fedora" src="https://img.shields.io/badge/-Fedora-000?&logo=Fedora&logoColor=F92672"/>
+<img alt="Arch" src="https://img.shields.io/badge/-Arch-000?&logo=ArchLinux&logoColor=F92672"/>
 <br/>
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=program--&show_icons=true&theme=monokai&locale=en&count_private=true"/>
 <br/>
 <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsinghm&theme=monokai&layout=compact"/>
 <br/>
 <img alt="Wakatime Total" src="https://wakatime.com/badge/user/605235ce-dbc4-4bb1-b8a3-ff582eba231c.svg"/>
-</p>
-
-<h3 align="center"><b>Current Projects</b></h3>
-
-<p align="center">
-<img alt="modeltargets" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=modeltargets&theme=monokai"/>
-<br/>
-<img alt="HSClientR" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=HSClientR&theme=monokai"/>
-<br/>
-<img alt="cryptocurr" src="https://github-readme-stats.vercel.app/api/pin/?username=program--&repo=cryptocurr&theme=monokai"/>
 </p>
