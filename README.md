@@ -31,6 +31,8 @@
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=program--&show_icons=true&theme=monokai&locale=en&count_private=true"/>
 <br/>
 <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsinghm&theme=monokai&layout=compact"/>
+<br/>
+<img alt="Wakatime Total" src="https://wakatime.com/badge/user/605235ce-dbc4-4bb1-b8a3-ff582eba231c.svg"/>
 </p>
 
 <h3 align="center"><b>Current Projects</b></h3>
