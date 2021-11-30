@@ -12,6 +12,7 @@
 
 <p align="center">
 <img alt="R" src="https://img.shields.io/badge/-R-000?&logo=R&logoColor=F92672"/>
+<img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=F92672"/>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=F92672"/>
 <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?&logo=Powershell&logoColor=F92672"/>
 <br/>
