@@ -13,8 +13,7 @@
 <p align="center">
 <img alt="R" src="https://img.shields.io/badge/-R-000?&logo=R&logoColor=F92672"/>
 <img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=F92672"/>
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=F92672"/>
-<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?&logo=Powershell&logoColor=F92672"/>
+<img alt="Golang" src="https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=F92672"/>
 <br/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=program--&theme=monokai&layout=compact&hide=html,scss,less,css&langs_count=20"/>
 </p>
