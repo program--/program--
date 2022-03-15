@@ -6,7 +6,7 @@
 <a href="https://stackoverflow.com/users/6891484" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" alt="6891484" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">I'm a Systems Administrator, R Developer, and DevOps Enthusiast! </h3>
+<h3 align="center">I'm a Graduate Student, R Developer, and Data Engineer!</h3>
 
 <h3 align="center"><b>Languages</b></h3>
 
