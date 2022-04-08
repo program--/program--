@@ -9,7 +9,7 @@
 
 - I'm a **Graduate Student** studying Computer Science at [Georgia Tech](https://www.gatech.edu).
 - I'm a **Data Engineer** for the [Urban Flood Open Knowledge Network (UF-OKN)](https://ufokn.com).
-- My research interests include: *geospatial computer science*, *data structures and algorithms*, *information systems*, and, *numerical analysis*.
+- My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
 
 <img align="left" src="metrics.svg" width="47.5%">
 <img align="right" src="achievements.svg" width="47.5%">
