@@ -17,8 +17,6 @@ jobs:
           base: header, activity, repositories
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, dockerfile, makefile, cmake, shell, javascript, php
-          plugin_languages_threshold: 1%
-          plugin_languages_limit: 10
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
