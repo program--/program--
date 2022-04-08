@@ -1,0 +1,34 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Profile Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: "metrics.*"
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, repositories
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, dockerfile, makefile, cmake, shell, javascript, php
+          plugin_languages_threshold: 1%
+          plugin_languages_limit: 10
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+      - name: Profile Acheivements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: "achievements.*"
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
