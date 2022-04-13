@@ -11,5 +11,7 @@
 - I'm a **Data Engineer** for the [Urban Flooding Open Knowledge Network (UF-OKN)](https://ufokn.com).
 - My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
 
-<img align="left" src="metrics.svg" width="47.5%">
-<img align="right" src="achievements.svg" width="47.5%">
+<div>
+  <img align=top src="metrics.svg"></td>
+  <img align=top src="achievements.svg"></td>
+</div>
