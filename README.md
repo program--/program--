@@ -7,7 +7,8 @@
 <a href="https://scholar.google.com/citations?user=SFaDjgoAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-critical?style=flat-square&logo=google-scholar&logoColor=white" alt="SFaDjgoAAAAJ"/></a>
 </p>
 
-- I'm a **Graduate Student** studying Computer Science at [Georgia Tech](https://www.gatech.edu).
+- I'm a **graduate student** at [Georgia Tech](https://www.gatech.edu) studying Computer Science.
+- I'm a **software engineer** at [Lynker](https://lynker.com/) supporting the [NOAA OWP](https://water.noaa.gov/).
 - My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
 
 <div align=center>
