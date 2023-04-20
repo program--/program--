@@ -8,7 +8,7 @@
 </p>
 
 - I'm a **graduate student** at [Georgia Tech](https://www.gatech.edu) studying Computer Science.
-- I'm a **software engineer** at [Lynker](https://lynker.com/).
+- I'm a **software engineer** at [Lynker](https://lynker.com/) supporting the [NOAA Office of Water Prediction](https://water.noaa.gov).
 - My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
 
 <div align=center>
