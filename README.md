@@ -12,5 +12,5 @@
 - My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
 
 <div align=center>
-  <img align=top src="metrics.svg" width="400vw"></td>
+  <img align=top src="metrics.svg"></td>
 </div>
