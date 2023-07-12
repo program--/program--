@@ -13,5 +13,4 @@
 
 <div align=center>
   <img align=top src="metrics.svg" width="400vw"></td>
-  <img align=top src="achievements.svg" width="400vw"></td>
 </div>
