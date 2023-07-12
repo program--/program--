@@ -21,12 +21,12 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-      - name: Profile Acheivements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: "achievements.*"
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+      # - name: Profile Acheivements
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #    filename: "achievements.*"
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    committer_token: ${{ secrets.GITHUB_TOKEN }}
+      #    base: ""
+      #    plugin_achievements: yes
+      #    plugin_achievements_display: compact
