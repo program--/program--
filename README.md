@@ -15,7 +15,11 @@
 
 - I'm a **graduate student** at [Georgia Tech](https://www.gatech.edu) studying Computer Science.
 - I'm a **software engineer** at [Lynker](https://lynker.com/) supporting the [NOAA Office of Water Prediction](https://water.noaa.gov).
-- My research interests include: *geospatial computer science*, *data structures and algorithms*, and *information systems*.
+- My research interests vary, but currently they include: *computational geometry*, *geographic information systems*, *high-performance computing*
+- I'm currently working on the following projects:
+  + [dynio](https://github.com/program--/dynio), a library supporting dynamically loaded I/O drivers.
+  + [sii](https://github.com/program--/sii), a modular C89-compliant interface for unified geospatial modeling and operations.
+  + [Focal Curve Encoding](https://github.com/program--/focal-curve-encoding), research in encoding/compressing vector geometry using space-filling curves.
 
 <div align=center>
   <img align=top src="metrics.svg"></td>
