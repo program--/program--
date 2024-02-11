@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://justinsingh.me">Justin</a>! 👋 </h1>
 
-<p align="center"><a href="https://github.com/program--.gpg" target="blank"><img src="https://img.shields.io/badge/GPG-C83B14F4EC220C64-grey?style=flat-square&logo=GNU%20Privacy%20Guard&logoColor=white&labelColor=green"/></a></p>
+<p align="center">
+  <a href="https://github.com/program--.gpg" target="blank"><img src="https://img.shields.io/badge/GPG-C83B14F4EC220C64-grey?style=flat-square&logo=GNU%20Privacy%20Guard&logoColor=white&labelColor=green"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprogram--%2Fhit-counter&count_bg=%23555555&title_bg=%2397CA00&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true"/>
+</p>
 
 <p align="center">
 <a href="mailto:justin@justinsingh.me" target="blank"><img align="center" src="https://img.shields.io/badge/Email-lightgrey?style=flat-square&logo=gmail&logoColor=white" alt="justinsinghm"/></a>
