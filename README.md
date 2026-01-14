@@ -15,10 +15,8 @@
 <img src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/R-198CE7?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Fortran-4d41b1?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </p>
 
-- I'm a **graduate student** at [Georgia Tech](https://www.gatech.edu) studying Computer Science.
-- I'm a **software engineer** at [Lynker](https://lynker.com/) supporting the [NOAA Office of Water Prediction](https://water.noaa.gov).
-- My research interests vary, but currently they include: *computational geometry*, *geographic information systems*, *high-performance computing*.
-
 <div align=center>
-  <img align=top src="metrics.svg"></td>
+
+For more information about me, checkout my [personal website](https://justinsingh.me).
+
 </div>
